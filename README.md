@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hofart
+- 👋 Hi, I’m Matheus
 
 - 💻 I’m Frontend Developer, like to draw ui pages and learn about ux things.
 - 📕 I’m currently learning about Clean Architecture, JS, React and NodeJS.
